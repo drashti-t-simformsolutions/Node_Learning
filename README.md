@@ -9,3 +9,8 @@ Installing Node \
 Introduction to Node.js\
 Exploring Node.js & it's uses\
 Installing VSCode & exploring it's features
+
+## Section: 3 Node.js Module System
+Importing different modules\
+Importing system files in the node file\
+Exploring global npm modules
