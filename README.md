@@ -20,3 +20,7 @@ Getting Commandline args from user\
 Parsing using yargs\
 Using json to store data\
 Creating small notes application
+
+## Section 5: Debugging Node.js
+Debugging using Chrome://inspect & debugger in VSCode\
+Understanding Error Messages
