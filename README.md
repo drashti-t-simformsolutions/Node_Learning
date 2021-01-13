@@ -14,3 +14,9 @@ Installing VSCode & exploring it's features
 Importing different modules\
 Importing system files in the node file\
 Exploring global npm modules
+
+## Section: 4 File System & Commandline args
+Getting Commandline args from user\
+Parsing using yargs\
+Using json to store data\
+Creating small notes application
